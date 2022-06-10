@@ -202,3 +202,7 @@ header,
 footer {
   color: #5e6d33;
 }
+
+.info-background a {
+  color: white;
+}
