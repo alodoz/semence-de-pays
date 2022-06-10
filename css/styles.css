@@ -206,3 +206,8 @@ footer {
 .info-background a {
   color: white;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+}
